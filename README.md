@@ -1,5 +1,3 @@
-# superstore-sales-performance-dashboard
-Power BI Sales KPI Dashboard using Superstore Dataset
 # Superstore Sales Performance Dashboard
 
 ## Overview
