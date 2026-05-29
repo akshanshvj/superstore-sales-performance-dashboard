@@ -1,5 +1,9 @@
 # Superstore Sales Performance Dashboard
 
+## Dashboard Preview
+
+![Dashboard](dashboard.png)
+
 ## Overview
 This project presents an interactive Power BI dashboard built using the Superstore sales dataset. The dashboard provides insights into sales performance, customer segments, product categories, regional sales, and top-performing products.
 
